@@ -1,6 +1,6 @@
 use atv1;
 
-*.sql linguist-detectable=true
+
 
 -- TABELA CLIENTE
 -- a) Inserir coluna “tipo” do tipo varchar(40)
